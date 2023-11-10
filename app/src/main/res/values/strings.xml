@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+    <string name="all_images">All Images</string>
+    <string name="favorites">Favorites</string>
+    <string name="albums">Albums</string>
+    <string name="back">Back</string>
+    <string name="image">Image</string>
+    <string name="dialog_delete_image">Delete Image</string>
+    <string name="dialog_delete_text">Are you sure you want to delete this image?</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_exif_title">Exif Data</string>
+    <string name="dialog_close">Close</string>
+    <string name="no_images_found">No images found</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="add_to_or_remove_from_favorites">Add to or remove from Favorites</string>
+    <string name="info">Info</string>
+    <string name="delete">Delete</string>
+    <string name="image_cannot_be_deleted_toast">Unable to delete the image, please grant permission.</string>
+    <string name="image_deleted_toast">Image deleted</string>
+    <string name="permission_rationale">For the app to work a photo permission is required. Please provide it by clicking on the button below.</string>
+    <string name="request_image_permission">Request Image Permission</string>
+</resources>
